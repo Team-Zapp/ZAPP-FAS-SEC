@@ -1,1 +1,156 @@
-function _0xb9da(_0xcdce9d,_0x3e5bc3){var _0x2f2c0d=_0x2f2c();return _0xb9da=function(_0xb9daa4,_0x58b0a0){_0xb9daa4=_0xb9daa4-0x1e7;var _0x1106c7=_0x2f2c0d[_0xb9daa4];return _0x1106c7;},_0xb9da(_0xcdce9d,_0x3e5bc3);}var _0x5abbfa=_0xb9da;function _0x2f2c(){var _0x198305=['../../deflink.html','14xWyuHf','198365GKLLhq','getElementById','May','</td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<td\x20class=\x22table-primary\x22>','setItem','September','src','getHours','get','51402RfsqOz','../CustomerInfo/CustomerInfo.php?name=','920168PJUmhZ','October','phonenumber','January','../Transcation/Transcation.php?name=','1186UdPPyG','August','145080kSyuRX','setAttribute','replace','../../def.html','#table1','380nxAXKz','Zay','546fgbFhy','../DashBoard/DashBoard.php?name=','192hndlGF','totalbudget','getDate','username','Zar','June','innerHTML','$</td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20</tr>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20','../AdminPhotos/Lets\x20go\x20home.png','adminPic','243474gweUUj','text','toString','href','append','8nhmIEm','../AdminPhotos/A\x20sunset.jpg','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<tr\x20class=\x22tr\x20table-success\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<td\x20class=\x22table-primary\x22>','March','</td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<td\x20class=\x22name\x20table-primary\x22>','date','#adminName','Zaw','66nFnNiQ','prepend','head','</td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<td\x20class=\x22orderid\x20table-primary\x22>','email','href5','LastSigninTime','Phu','37683ThieNw','#table2\x20tbody','parse','getItem','../Stockmanagement/StockManagement.php?name=','../AdminPhotos/flower.jpg','../../Controllers/CustomerInfoTier.php','href3','November','#table3\x20tbody','ajax','AdminName','February','../AdminPhotos/~Chuky~.jpg','66ifPxqN'];_0x2f2c=function(){return _0x198305;};return _0x2f2c();}(function(_0x3a0962,_0x56b714){var _0x457e37=_0xb9da,_0x385a75=_0x3a0962();while(!![]){try{var _0x106d95=-parseInt(_0x457e37(0x22b))/0x1*(-parseInt(_0x457e37(0x220))/0x2)+parseInt(_0x457e37(0x1ea))/0x3*(parseInt(_0x457e37(0x1ef))/0x4)+-parseInt(_0x457e37(0x210))/0x5*(-parseInt(_0x457e37(0x1f7))/0x6)+parseInt(_0x457e37(0x20f))/0x7*(-parseInt(_0x457e37(0x21b))/0x8)+-parseInt(_0x457e37(0x1ff))/0x9*(parseInt(_0x457e37(0x227))/0xa)+parseInt(_0x457e37(0x20d))/0xb*(parseInt(_0x457e37(0x222))/0xc)+-parseInt(_0x457e37(0x219))/0xd*(parseInt(_0x457e37(0x229))/0xe);if(_0x106d95===_0x56b714)break;else _0x385a75['push'](_0x385a75['shift']());}catch(_0x59d3e7){_0x385a75['push'](_0x385a75['shift']());}}}(_0x2f2c,0x3b061),$(document)['ready'](function(){var _0x1cb0a4=_0xb9da;$[_0x1cb0a4(0x209)]({'type':'get','url':_0x1cb0a4(0x205),'success':function(_0x4c85f8){var _0x31a2a2=_0x1cb0a4;let _0x5e23ce=JSON[_0x31a2a2(0x201)](_0x4c85f8);var _0x1f56f3=0x0,_0x4980b4=0x0,_0x380250=0x0;for(const _0x5e92e6 of _0x5e23ce){var _0x4c921c=_0x5e92e6[_0x31a2a2(0x22c)],_0x35d061=_0x5e92e6[_0x31a2a2(0x22e)],_0x45afe9=_0x5e92e6[_0x31a2a2(0x1fb)],_0x226aad=_0x5e92e6[_0x31a2a2(0x21d)],_0x56c5e2=_0x5e92e6['address'];_0x5e92e6['totalbudget']>0xc1b&&(_0x1f56f3++,$(_0x31a2a2(0x226))['append'](_0x31a2a2(0x1f1)+_0x1f56f3+_0x31a2a2(0x1f3)+_0x35d061+_0x31a2a2(0x1fa)+_0x45afe9+_0x31a2a2(0x213)+_0x226aad+_0x31a2a2(0x213)+_0x56c5e2+_0x31a2a2(0x213)+_0x4c921c[_0x31a2a2(0x1ec)]()[_0x31a2a2(0x224)](/\B(?=(\d{3})+(?!\d))/g,',')+_0x31a2a2(0x1e7))),_0x5e92e6['totalbudget']>0x3e7&&_0x5e92e6[_0x31a2a2(0x22c)]<0xbb8&&(_0x4980b4++,$(_0x31a2a2(0x200))[_0x31a2a2(0x1ee)](_0x31a2a2(0x1f1)+_0x4980b4+_0x31a2a2(0x213)+_0x35d061+'</td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<td\x20class=\x22table-primary\x22>'+_0x45afe9+_0x31a2a2(0x213)+_0x226aad+_0x31a2a2(0x213)+_0x56c5e2+'</td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<td\x20class=\x22table-primary\x22>'+_0x4c921c[_0x31a2a2(0x1ec)]()[_0x31a2a2(0x224)](/\B(?=(\d{3})+(?!\d))/g,',')+_0x31a2a2(0x1e7))),_0x5e92e6[_0x31a2a2(0x22c)]<0x3e8&&(_0x380250++,$(_0x31a2a2(0x208))[_0x31a2a2(0x1ee)](_0x31a2a2(0x1f1)+_0x380250+'</td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<td\x20class=\x22table-primary\x22>'+_0x35d061+'</td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<td\x20class=\x22table-primary\x22>'+_0x45afe9+'</td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<td\x20class=\x22table-primary\x22>'+_0x226aad+'</td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<td\x20class=\x22table-primary\x22>'+_0x56c5e2+_0x31a2a2(0x213)+_0x4c921c[_0x31a2a2(0x1ec)]()[_0x31a2a2(0x224)](/\B(?=(\d{3})+(?!\d))/g,',')+'$</td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20</tr>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20'));}}});}),$[_0x5abbfa(0x218)](_0x5abbfa(0x225),function(_0x16a65c){var _0x97e1f7=_0x5abbfa;$('body')[_0x97e1f7(0x1f8)](_0x16a65c);}),$[_0x5abbfa(0x218)](_0x5abbfa(0x20e),function(_0x577537){var _0x3e0355=_0x5abbfa;$(_0x3e0355(0x1f9))[_0x3e0355(0x1f8)](_0x577537),sessionStorage[_0x3e0355(0x214)]('AdminName',AdminName),$(_0x3e0355(0x1f5))[_0x3e0355(0x1eb)](sessionStorage['getItem']('AdminName')),document['getElementById']('href1')[_0x3e0355(0x223)]('href',_0x3e0355(0x22a)+sessionStorage[_0x3e0355(0x202)](_0x3e0355(0x20a))),document[_0x3e0355(0x211)]('href2')[_0x3e0355(0x223)]('href',_0x3e0355(0x203)+sessionStorage[_0x3e0355(0x202)]('AdminName')),document[_0x3e0355(0x211)](_0x3e0355(0x206))['setAttribute']('href',_0x3e0355(0x21a)+sessionStorage[_0x3e0355(0x202)](_0x3e0355(0x20a))),document[_0x3e0355(0x211)]('href4')['setAttribute'](_0x3e0355(0x1ed),_0x3e0355(0x21f)+sessionStorage['getItem'](_0x3e0355(0x20a))),document[_0x3e0355(0x211)](_0x3e0355(0x1fc))['setAttribute'](_0x3e0355(0x1ed),'../FeedBack/Feedback.php?name='+sessionStorage[_0x3e0355(0x202)](_0x3e0355(0x20a)));const _0x511809=new Date();let _0x1e94a2=_0x511809[_0x3e0355(0x22d)](),_0x286a04=_0x511809['getMinutes'](),_0x536ddb=_0x511809[_0x3e0355(0x217)]();localStorage[_0x3e0355(0x214)](_0x3e0355(0x1fd),_0x536ddb+':'+_0x286a04);const _0x30ed25=[_0x3e0355(0x21e),_0x3e0355(0x20b),_0x3e0355(0x1f2),'April',_0x3e0355(0x212),_0x3e0355(0x230),'July',_0x3e0355(0x221),_0x3e0355(0x215),_0x3e0355(0x21c),_0x3e0355(0x207),'December'];let _0x13db2d=_0x30ed25[_0x511809['getMonth']()];document[_0x3e0355(0x211)](_0x3e0355(0x1f4))[_0x3e0355(0x231)]=_0x13db2d+'/'+_0x1e94a2,sessionStorage['getItem'](_0x3e0355(0x20a))==_0x3e0355(0x228)&&document[_0x3e0355(0x211)](_0x3e0355(0x1e9))[_0x3e0355(0x223)](_0x3e0355(0x216),_0x3e0355(0x20c)),sessionStorage[_0x3e0355(0x202)](_0x3e0355(0x20a))==_0x3e0355(0x22f)&&document[_0x3e0355(0x211)](_0x3e0355(0x1e9))[_0x3e0355(0x223)](_0x3e0355(0x216),_0x3e0355(0x1e8)),sessionStorage['getItem'](_0x3e0355(0x20a))==_0x3e0355(0x1f6)&&document[_0x3e0355(0x211)]('adminPic')[_0x3e0355(0x223)](_0x3e0355(0x216),_0x3e0355(0x1f0)),sessionStorage[_0x3e0355(0x202)](_0x3e0355(0x20a))==_0x3e0355(0x1fe)&&document[_0x3e0355(0x211)]('adminPic')[_0x3e0355(0x223)]('src',_0x3e0355(0x204));}));
+$(document).ready(function () {
+  $.ajax({
+    type: "get",
+    url: "../../Controllers/CustomerInfoTier.php",
+    success: function (data) {
+      let json = JSON.parse(data);
+      var count1 = 0;
+      var count2 = 0;
+      var count3 = 0;
+      for (const x of json) {
+        var totalbudget = x.totalbudget;
+        var name = x.username;
+        var email = x.email;
+        var phnumber = x.phonenumber;
+        var address = x.address;
+        if (x.totalbudget > 3099) {
+          count1++;
+          $("#table1").append(
+            `
+            <tr class="tr table-success">
+            <td class="table-primary">${count1}</td>
+            <td class="name table-primary">${name}</td>
+            <td class="orderid table-primary">${email}</td>
+            <td class="table-primary">${phnumber}</td>
+            <td class="table-primary">${address}</td>
+            <td class="table-primary">${totalbudget
+              .toString()
+              .replace(/\B(?=(\d{3})+(?!\d))/g, ",")}$</td>
+        </tr>
+          `
+          );
+        }
+        if (x.totalbudget > 999 && x.totalbudget < 3000) {
+          count2++;
+          $("#table2 tbody").append(
+            `
+            <tr class="tr table-success">
+            <td class="table-primary">${count2}</td>
+            <td class="table-primary">${name}</td>
+            <td class="table-primary">${email}</td>
+            <td class="table-primary">${phnumber}</td>
+            <td class="table-primary">${address}</td>
+            <td class="table-primary">${totalbudget
+              .toString()
+              .replace(/\B(?=(\d{3})+(?!\d))/g, ",")}$</td>
+        </tr>
+          `
+          );
+        }
+        if (x.totalbudget < 1000) {
+          count3++;
+          $("#table3 tbody").append(
+            `
+            <tr class="tr table-success">
+            <td class="table-primary">${count3}</td>
+            <td class="table-primary">${name}</td>
+            <td class="table-primary">${email}</td>
+            <td class="table-primary">${phnumber}</td>
+            <td class="table-primary">${address}</td>
+            <td class="table-primary">${totalbudget
+              .toString()
+              .replace(/\B(?=(\d{3})+(?!\d))/g, ",")}$</td>
+        </tr>
+          `
+          );
+        }
+      }
+    },
+  });
+});
+
+$.get("../../def.html", function (data) {
+  $("body").prepend(data);
+});
+
+$.get("../../deflink.html", function (data) {
+  $("head").prepend(data);
+  sessionStorage.setItem("AdminName", AdminName);
+  $("#adminName").text(sessionStorage.getItem("AdminName"));
+  document
+    .getElementById("href1")
+    .setAttribute(
+      "href",
+      "../DashBoard/DashBoard.php?name=" + sessionStorage.getItem("AdminName")
+    );
+  document
+    .getElementById("href2")
+    .setAttribute(
+      "href",
+      "../Stockmanagement/StockManagement.php?name=" +
+        sessionStorage.getItem("AdminName")
+    );
+  document
+    .getElementById("href3")
+    .setAttribute(
+      "href",
+      "../CustomerInfo/CustomerInfo.php?name=" +
+        sessionStorage.getItem("AdminName")
+    );
+  document
+    .getElementById("href4")
+    .setAttribute(
+      "href",
+      "../Transcation/Transcation.php?name=" +
+        sessionStorage.getItem("AdminName")
+    );
+  document
+    .getElementById("href5")
+    .setAttribute(
+      "href",
+      "../FeedBack/Feedback.php?name=" + sessionStorage.getItem("AdminName")
+    );
+  const d = new Date();
+  let date = d.getDate();
+  let minute = d.getMinutes();
+  let hour = d.getHours();
+
+  localStorage.setItem("LastSigninTime", hour + ":" + minute);
+  const months = [
+    "January",
+    "February",
+    "March",
+    "April",
+    "May",
+    "June",
+    "July",
+    "August",
+    "September",
+    "October",
+    "November",
+    "December",
+  ];
+  let month = months[d.getMonth()];
+  document.getElementById("date").innerHTML = month + "/" + date;
+
+  if (sessionStorage.getItem("AdminName") == "Zay") {
+    document
+      .getElementById("adminPic")
+      .setAttribute("src", "../AdminPhotos/~Chuky~.jpg");
+  }
+  if (sessionStorage.getItem("AdminName") == "Zar") {
+    document
+      .getElementById("adminPic")
+      .setAttribute("src", "../AdminPhotos/Lets go home.png");
+  }
+  if (sessionStorage.getItem("AdminName") == "Zaw") {
+    document
+      .getElementById("adminPic")
+      .setAttribute("src", "../AdminPhotos/A sunset.jpg");
+  }
+  if (sessionStorage.getItem("AdminName") == "Phu") {
+    document
+      .getElementById("adminPic")
+      .setAttribute("src", "../AdminPhotos/flower.jpg");
+  }
+});

@@ -1,1 +1,389 @@
-function _0x56ed(){var _0x1cb72c=['11dtkDNN','February','</td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<td\x20class=\x22orderid\x20table-primary\x22>','Zaw','../../def.html','../../Controllers/CustomerInfoTier.php','href','totalbudget','prepend','#table2\x20tbody','text','November','href5','address','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<tr\x20class=\x22tr\x20table-success\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<td\x20class=\x22table-primary\x22>','$</td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20</tr>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20','#table3\x20tbody','date','Zar','ajax','61452vzHDGx','July','#adminName','4zewLuk','innerHTML','86786kiUPKE','getItem','body','../../deflink.html','setAttribute','1483039PhGWvG','toString','adminPic','../AdminPhotos/flower.jpg','640bbXAkN','getMonth','getDate','12564550itYEgU','April','145233QpONRm','../AdminPhotos/A\x20sunset.jpg','352655FdogSR','ready','January','href4','47172xhUCHf','117KwfExi','getElementById','../CustomerInfo/CustomerInfo.php?name=','../AdminPhotos/Lets\x20go\x20home.png','href3','174PEUyNv','September','October','setItem','AdminName','../Stockmanagement/StockManagement.php?name=','28LynFVj','append','replace','src','June','August','parse','Phu','Zay','</td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<td\x20class=\x22name\x20table-primary\x22>','getMinutes','March','</td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<td\x20class=\x22table-primary\x22>','December','href2','get'];_0x56ed=function(){return _0x1cb72c;};return _0x56ed();}var _0x8988a0=_0x4275;function _0x4275(_0x4b274a,_0x195e56){var _0x56ed65=_0x56ed();return _0x4275=function(_0x427558,_0x38026f){_0x427558=_0x427558-0xfe;var _0x4021a0=_0x56ed65[_0x427558];return _0x4021a0;},_0x4275(_0x4b274a,_0x195e56);}(function(_0x2aa0fd,_0x162956){var _0x454f48=_0x4275,_0x5630b7=_0x2aa0fd();while(!![]){try{var _0x2b36b7=parseInt(_0x454f48(0x100))/0x1+parseInt(_0x454f48(0x142))/0x2*(parseInt(_0x454f48(0x10f))/0x3)+-parseInt(_0x454f48(0x11b))/0x4*(parseInt(_0x454f48(0x10b))/0x5)+-parseInt(_0x454f48(0x115))/0x6*(parseInt(_0x454f48(0x144))/0x7)+-parseInt(_0x454f48(0x104))/0x8*(-parseInt(_0x454f48(0x109))/0x9)+parseInt(_0x454f48(0x107))/0xa*(-parseInt(_0x454f48(0x12b))/0xb)+-parseInt(_0x454f48(0x13f))/0xc*(-parseInt(_0x454f48(0x110))/0xd);if(_0x2b36b7===_0x162956)break;else _0x5630b7['push'](_0x5630b7['shift']());}catch(_0x113f2e){_0x5630b7['push'](_0x5630b7['shift']());}}}(_0x56ed,0xb51be),$(document)[_0x8988a0(0x10c)](function(){var _0x2b49bf=_0x8988a0;$[_0x2b49bf(0x13e)]({'type':_0x2b49bf(0x12a),'url':_0x2b49bf(0x130),'success':function(_0xea8fca){var _0x6b3aaa=_0x2b49bf;let _0x40ad0a=JSON[_0x6b3aaa(0x121)](_0xea8fca);var _0x2efef0=0x0,_0x4eaa5a=0x0,_0x57fd9b=0x0;for(const _0x280eb4 of _0x40ad0a){var _0xb5a0c4=_0x280eb4[_0x6b3aaa(0x132)],_0x2c0c60=_0x280eb4['username'],_0x44504f=_0x280eb4['email'],_0x5c3c02=_0x280eb4['phonenumber'],_0x2c74e1=_0x280eb4[_0x6b3aaa(0x138)];_0x280eb4[_0x6b3aaa(0x132)]>0xc1b&&(_0x2efef0++,$('#table1')[_0x6b3aaa(0x11c)]('\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<tr\x20class=\x22tr\x20table-success\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<td\x20class=\x22table-primary\x22>'+_0x2efef0+_0x6b3aaa(0x124)+_0x2c0c60+_0x6b3aaa(0x12d)+_0x44504f+_0x6b3aaa(0x127)+_0x5c3c02+_0x6b3aaa(0x127)+_0x2c74e1+'</td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<td\x20class=\x22table-primary\x22>'+_0xb5a0c4['toString']()[_0x6b3aaa(0x11d)](/\B(?=(\d{3})+(?!\d))/g,',')+_0x6b3aaa(0x13a))),_0x280eb4[_0x6b3aaa(0x132)]>0x3e7&&_0x280eb4[_0x6b3aaa(0x132)]<0xbb8&&(_0x4eaa5a++,$(_0x6b3aaa(0x134))[_0x6b3aaa(0x11c)]('\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<tr\x20class=\x22tr\x20table-success\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<td\x20class=\x22table-primary\x22>'+_0x4eaa5a+_0x6b3aaa(0x127)+_0x2c0c60+_0x6b3aaa(0x127)+_0x44504f+_0x6b3aaa(0x127)+_0x5c3c02+_0x6b3aaa(0x127)+_0x2c74e1+'</td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<td\x20class=\x22table-primary\x22>'+_0xb5a0c4['toString']()[_0x6b3aaa(0x11d)](/\B(?=(\d{3})+(?!\d))/g,',')+'$</td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20</tr>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20')),_0x280eb4[_0x6b3aaa(0x132)]<0x3e8&&(_0x57fd9b++,$(_0x6b3aaa(0x13b))[_0x6b3aaa(0x11c)](_0x6b3aaa(0x139)+_0x57fd9b+_0x6b3aaa(0x127)+_0x2c0c60+'</td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<td\x20class=\x22table-primary\x22>'+_0x44504f+'</td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<td\x20class=\x22table-primary\x22>'+_0x5c3c02+_0x6b3aaa(0x127)+_0x2c74e1+'</td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<td\x20class=\x22table-primary\x22>'+_0xb5a0c4[_0x6b3aaa(0x101)]()[_0x6b3aaa(0x11d)](/\B(?=(\d{3})+(?!\d))/g,',')+_0x6b3aaa(0x13a)));}}});}),$[_0x8988a0(0x12a)](_0x8988a0(0x12f),function(_0x495d41){var _0x17ba8d=_0x8988a0;$(_0x17ba8d(0x146))[_0x17ba8d(0x133)](_0x495d41);}),$[_0x8988a0(0x12a)](_0x8988a0(0xfe),function(_0xe25f1e){var _0xb1d6d=_0x8988a0;$('head')[_0xb1d6d(0x133)](_0xe25f1e),sessionStorage[_0xb1d6d(0x118)]('AdminName',AdminName),$(_0xb1d6d(0x141))[_0xb1d6d(0x135)](sessionStorage[_0xb1d6d(0x145)](_0xb1d6d(0x119))),document[_0xb1d6d(0x111)]('href1')[_0xb1d6d(0xff)](_0xb1d6d(0x131),'../DashBoard/DashBoard.php?name='+sessionStorage['getItem']('AdminName')),document[_0xb1d6d(0x111)](_0xb1d6d(0x129))[_0xb1d6d(0xff)](_0xb1d6d(0x131),_0xb1d6d(0x11a)+sessionStorage['getItem'](_0xb1d6d(0x119))),document[_0xb1d6d(0x111)](_0xb1d6d(0x114))[_0xb1d6d(0xff)](_0xb1d6d(0x131),_0xb1d6d(0x112)+sessionStorage[_0xb1d6d(0x145)](_0xb1d6d(0x119))),document[_0xb1d6d(0x111)](_0xb1d6d(0x10e))['setAttribute'](_0xb1d6d(0x131),'../Transcation/Transcation.php?name='+sessionStorage[_0xb1d6d(0x145)](_0xb1d6d(0x119))),document[_0xb1d6d(0x111)](_0xb1d6d(0x137))[_0xb1d6d(0xff)](_0xb1d6d(0x131),'../FeedBack/Feedback.php?name='+sessionStorage[_0xb1d6d(0x145)]('AdminName'));const _0xe258d9=new Date();let _0x139a9d=_0xe258d9[_0xb1d6d(0x106)](),_0x9ffe27=_0xe258d9[_0xb1d6d(0x125)](),_0x19d285=_0xe258d9['getHours']();localStorage[_0xb1d6d(0x118)]('LastSigninTime',_0x19d285+':'+_0x9ffe27);const _0xd054a5=[_0xb1d6d(0x10d),_0xb1d6d(0x12c),_0xb1d6d(0x126),_0xb1d6d(0x108),'May',_0xb1d6d(0x11f),_0xb1d6d(0x140),_0xb1d6d(0x120),_0xb1d6d(0x116),_0xb1d6d(0x117),_0xb1d6d(0x136),_0xb1d6d(0x128)];let _0x11fed6=_0xd054a5[_0xe258d9[_0xb1d6d(0x105)]()];document[_0xb1d6d(0x111)](_0xb1d6d(0x13c))[_0xb1d6d(0x143)]=_0x11fed6+'/'+_0x139a9d,sessionStorage[_0xb1d6d(0x145)](_0xb1d6d(0x119))==_0xb1d6d(0x123)&&document[_0xb1d6d(0x111)](_0xb1d6d(0x102))[_0xb1d6d(0xff)](_0xb1d6d(0x11e),'../AdminPhotos/~Chuky~.jpg'),sessionStorage['getItem']('AdminName')==_0xb1d6d(0x13d)&&document['getElementById']('adminPic')[_0xb1d6d(0xff)](_0xb1d6d(0x11e),_0xb1d6d(0x113)),sessionStorage[_0xb1d6d(0x145)]('AdminName')==_0xb1d6d(0x12e)&&document[_0xb1d6d(0x111)](_0xb1d6d(0x102))[_0xb1d6d(0xff)]('src',_0xb1d6d(0x10a)),sessionStorage[_0xb1d6d(0x145)](_0xb1d6d(0x119))==_0xb1d6d(0x122)&&document[_0xb1d6d(0x111)](_0xb1d6d(0x102))[_0xb1d6d(0xff)](_0xb1d6d(0x11e),_0xb1d6d(0x103));}));
+var stock = [];
+var categories = [];
+$(document).ready(function () {
+  //to get remain stock
+
+  $.ajax({
+    type: "get",
+    url: "../../Controllers/Stock.php",
+    success: function (data) {
+      let json = JSON.parse(data);
+      for (const x of json) {
+        stock.push(x.stock);
+        var gender = x.gender;
+        var category = x.category;
+        if (gender == "1") gender = "Man";
+        else if (gender == "2") gender = "Woman";
+        else if (gender == "3") gender = "Kid";
+        if (category == "1") category = "Shirt";
+        else if (category == "2") category = "Pant";
+        else if (category == "3") category = "Shoe";
+        categories.push(category + "(" + gender + ")");
+      }
+
+      var options = {
+        series: [
+          {
+            name: "Total Stock",
+            data: stock,
+          },
+        ],
+        chart: {
+          type: "bar",
+          height: 350,
+          toolbar: {
+            show: false,
+          },
+        },
+        plotOptions: {
+          bar: {
+            horizontal: false,
+            columnWidth: "55%",
+            endingShape: "rounded",
+          },
+        },
+        dataLabels: {
+          enabled: false,
+        },
+        title: {
+          text: "Remain Stock",
+          align: "left",
+          style: {
+            fontSize: "20px",
+          },
+        },
+        stroke: {
+          show: true,
+          width: 2,
+          colors: ["transparent"],
+        },
+        xaxis: {
+          categories: categories,
+        },
+        yaxis: {
+          title: {
+            text: "InStock",
+          },
+        },
+        fill: {
+          opacity: 1,
+        },
+        tooltip: {
+          y: {
+            formatter: function (val) {
+              return val;
+            },
+          },
+        },
+      };
+
+      var chart = new ApexCharts(document.getElementById("chart"), options);
+      chart.render();
+    },
+  });
+  var revenue = [];
+  var revenuecategory = [];
+  $.ajax({
+    type: "get",
+    url: "../../Controllers/SecondChart.php",
+    success: function (data) {
+      let json = JSON.parse(data);
+      for (const x of json) {
+        revenue.push(x.revenue);
+        var gender = x.ordergender;
+        var category = x.ordercategory;
+        if (gender == "1") gender = "Man";
+        else if (gender == "2") gender = "Woman";
+        else if (gender == "3") gender = "Kid";
+        if (category == "1") category = "Shirt";
+        else if (category == "2") category = "Pant";
+        else if (category == "3") category = "Shoe";
+        revenuecategory.push(category + "(" + gender + ")");
+      }
+      var options = {
+        series: [
+          {
+            name: "Revenue",
+            data: revenue,
+          },
+        ],
+        chart: {
+          height: 350,
+          type: "line",
+          zoom: {
+            enabled: false,
+          },
+          toolbar: {
+            show: false,
+          },
+        },
+        dataLabels: {
+          enabled: false,
+        },
+        stroke: {
+          curve: "straight",
+        },
+        title: {
+          text: "Earning",
+          align: "left",
+          style: {
+            fontSize: "20px",
+          },
+        },
+        grid: {
+          row: {
+            colors: ["#f3f3f3", "transparent"], // takes an array which will be repeated on columns
+            opacity: 0.5,
+          },
+        },
+        xaxis: {
+          categories: revenuecategory,
+        },
+      };
+
+      var chart = new ApexCharts(document.querySelector("#secChart"), options);
+      chart.render();
+    },
+  });
+
+  $.ajax({
+    type: "get",
+    url: "../../Controllers/PopularItems.php",
+    success: function (data) {
+      let json = JSON.parse(data);
+      var ordercategories = [];
+      var orderquantity = [];
+      for (const x of json) {
+        orderquantity.push(Number(x.quantity));
+        var gender = x.ordergender;
+        var category = x.ordercategory;
+        if (gender == "1") gender = "Man";
+        else if (gender == "2") gender = "Woman";
+        else if (gender == "3") gender = "Kid";
+        if (category == "1") category = "Shirt";
+        else if (category == "2") category = "Pant";
+        else if (category == "3") category = "Shoe";
+        ordercategories.push(category + "(" + gender + ")");
+      }
+
+      orderquantity.sort(function (a, b) {
+        return b - a;
+      });
+      var highquantity = [];
+      for (let index = 0; index < orderquantity.length; index++) {
+        if (index < 5) highquantity.push(orderquantity[index]);
+      }
+      console.log(highquantity);
+
+      ordercategories.sort(function (a, b) {
+        return b - a;
+      });
+
+      var highcategories = [];
+      for (let index = 0; index < ordercategories.length; index++) {
+        if (index < 5) highcategories.push(ordercategories[index]);
+      }
+
+      var options = {
+        series: highquantity,
+        chart: {
+          type: "pie",
+        },
+        labels: highcategories,
+        responsive: [
+          {
+            breakpoint: 480,
+            options: {
+              chart: {
+                width: 200,
+              },
+              legend: {
+                position: "bottom",
+              },
+            },
+          },
+        ],
+      };
+
+      var chart = new ApexCharts(document.querySelector("#pie"), options);
+      chart.render();
+
+      // orderquantity.sort(function(a, b) {
+      //   return   a-b;
+      // });
+      var lowquantity = [];
+      for (let index = 0; index < orderquantity.length; index++) {
+        if (index > 4) lowquantity.push(orderquantity[index]);
+      }
+
+      // ordercategories.sort(function(a, b) {
+      //   return   a-b;
+      // });
+      var lowcategories = [];
+      for (let index = 0; index < ordercategories.length; index++) {
+        if (index > 4) lowcategories.push(ordercategories[index]);
+      }
+
+      var options = {
+        series: lowquantity,
+        chart: {
+          type: "donut",
+        },
+
+        labels: lowcategories,
+        responsive: [
+          {
+            breakpoint: 480,
+            options: {
+              chart: {
+                width: 200,
+              },
+              legend: {
+                position: "bottom",
+              },
+            },
+          },
+        ],
+      };
+
+      var chart = new ApexCharts(document.querySelector("#donut"), options);
+      chart.render();
+    },
+  });
+  // $("#logout").click(function () {
+  //   window.alert("hello");
+  //   Swal.fire({
+  //     title: "Are you sure to logout?",
+  //     icon: "warning",
+  //     showCancelButton: true,
+  //     confirmButtonColor: "#3085d6",
+  //     cancelButtonColor: "#d33",
+  //     confirmButtonText: "Yes, Please",
+  //   }).then((result) => {
+  //     if (result.isConfirmed) {
+  //       window.open("../LoginForm/login.php");
+  //     }
+  //   });
+  // });
+});
+
+$.get("../../deflink.html", function (data) {
+  $("head").prepend(data);
+});
+
+$.get("../../def.html", function (data) {
+  $("body").prepend(data);
+  sessionStorage.setItem("AdminName", AdminName);
+  $("#adminName").text(sessionStorage.getItem("AdminName"));
+  document
+    .getElementById("href2")
+    .setAttribute(
+      "href",
+      "../Stockmanagement/StockManagement.php?name=" +
+        sessionStorage.getItem("AdminName")
+    );
+  document
+    .getElementById("href3")
+    .setAttribute(
+      "href",
+      "../CustomerInfo/CustomerInfo.php?name=" +
+        sessionStorage.getItem("AdminName")
+    );
+  document
+    .getElementById("href4")
+    .setAttribute(
+      "href",
+      "../Transcation/Transcation.php?name=" +
+        sessionStorage.getItem("AdminName")
+    );
+  document
+    .getElementById("href5")
+    .setAttribute(
+      "href",
+      "../FeedBack/Feedback.php?name=" + sessionStorage.getItem("AdminName")
+    );
+  const d = new Date();
+  let date = d.getDate();
+  let minute = d.getMinutes();
+  let hour = d.getHours();
+
+  localStorage.setItem("LastSigninTime", hour + ":" + minute);
+  const months = [
+    "January",
+    "February",
+    "March",
+    "April",
+    "May",
+    "June",
+    "July",
+    "August",
+    "September",
+    "October",
+    "November",
+    "December",
+  ];
+  let month = months[d.getMonth()];
+  document.getElementById("date").innerHTML = month + "/" + date;
+
+  if (sessionStorage.getItem("AdminName") == "Zay") {
+    document
+      .getElementById("adminPic")
+      .setAttribute("src", "../AdminPhotos/~Chuky~.jpg");
+  }
+  if (sessionStorage.getItem("AdminName") == "Zar") {
+    document
+      .getElementById("adminPic")
+      .setAttribute("src", "../AdminPhotos/Lets go home.png");
+  }
+  if (sessionStorage.getItem("AdminName") == "Zaw") {
+    document
+      .getElementById("adminPic")
+      .setAttribute("src", "../AdminPhotos/A sunset.jpg");
+  }
+  if (sessionStorage.getItem("AdminName") == "Phu") {
+    document
+      .getElementById("adminPic")
+      .setAttribute("src", "../AdminPhotos/flower.jpg");
+  }
+});
+
+$.ajax({
+  type: "get",
+  url: "../../Controllers/TotalVisit.php",
+  success: function (data) {
+    let json = JSON.parse(data);
+    $("#visit").text(json);
+  },
+});
+$.ajax({
+  type: "get",
+  url: "../../Controllers/TotalStock.php",
+  success: function (data) {
+    let json = JSON.parse(data);
+    $("#totalstocks").text(json);
+  },
+});
+$.ajax({
+  type: "get",
+  url: "../../Controllers/TotalFeedback.php",
+  success: function (data) {
+    let json = JSON.parse(data);
+    $("#feedback").text(json);
+  },
+});
+$.ajax({
+  type: "get",
+  url: "../../Controllers/TotalOrder.php",
+  success: function (data) {
+    let json = JSON.parse(data);
+    $("#totalorder").text(json);
+  },
+});
+$.ajax({
+  type: "get",
+  url: "../../Controllers/TotalRevenue.php",
+  success: function (data) {
+    let json = JSON.parse(data);
+    $("#revenue").text(data.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ","));
+  },
+});

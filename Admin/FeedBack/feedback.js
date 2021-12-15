@@ -1,1 +1,132 @@
-var _0x37904b=_0xae61;function _0x37e0(){var _0x5af642=['2206701zqOSCM','append','getItem','835rsHPaA','phonenumber','prepend','#table1','#table3\x20tbody','#adminName','innerHTML','$</td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20</tr>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20','replace','href4','toString','setAttribute','getElementById','../AdminPhotos/flower.jpg','body','src','email','getDate','November','setItem','../../def.html','head','570VONWeo','../AdminPhotos/Lets\x20go\x20home.png','July','September','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<tr\x20class=\x22tr\x20table-success\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<td\x20class=\x22table-primary\x22>','getMonth','</td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<td\x20class=\x22name\x20table-primary\x22>','../../Controllers/CustomerInfoTier.php','October','get','May','../Stockmanagement/StockManagement.php?name=','14Ljzegb','4613496WcQcPI','href2','totalbudget','ready','href','adminPic','10218190YcZVCn','href3','December','January','1012ZOpxbU','href1','../FeedBack/Feedback.php?name=','ajax','58650BEeHye','../DashBoard/DashBoard.php?name=','AdminName','April','parse','</td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<td\x20class=\x22orderid\x20table-primary\x22>','March','LastSigninTime','../AdminPhotos/~Chuky~.jpg','</td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<td\x20class=\x22table-primary\x22>','../Transcation/Transcation.php?name=','text','6679233jeefDH','getMinutes','4696340uTmaQm','getHours','Zar','address','../AdminPhotos/A\x20sunset.jpg','../../deflink.html','June'];_0x37e0=function(){return _0x5af642;};return _0x37e0();}function _0xae61(_0x9e9ba2,_0x203d2c){var _0x37e03e=_0x37e0();return _0xae61=function(_0xae6121,_0x449c16){_0xae6121=_0xae6121-0x1ef;var _0x1b59b6=_0x37e03e[_0xae6121];return _0x1b59b6;},_0xae61(_0x9e9ba2,_0x203d2c);}(function(_0x58a441,_0x427f2a){var _0x3795ff=_0xae61,_0x5e01ed=_0x58a441();while(!![]){try{var _0x1fee63=-parseInt(_0x3795ff(0x1f0))/0x1*(parseInt(_0x3795ff(0x21d))/0x2)+parseInt(_0x3795ff(0x236))/0x3+-parseInt(_0x3795ff(0x22f))/0x4+parseInt(_0x3795ff(0x221))/0x5*(parseInt(_0x3795ff(0x206))/0x6)+parseInt(_0x3795ff(0x212))/0x7*(-parseInt(_0x3795ff(0x213))/0x8)+parseInt(_0x3795ff(0x22d))/0x9+parseInt(_0x3795ff(0x219))/0xa;if(_0x1fee63===_0x427f2a)break;else _0x5e01ed['push'](_0x5e01ed['shift']());}catch(_0x4e1dc6){_0x5e01ed['push'](_0x5e01ed['shift']());}}}(_0x37e0,0xd2ea0),$(document)[_0x37904b(0x216)](function(){var _0x2b6a61=_0x37904b;$[_0x2b6a61(0x220)]({'type':_0x2b6a61(0x20f),'url':_0x2b6a61(0x20d),'success':function(_0x3e5e08){var _0x52a299=_0x2b6a61;let _0x1d640f=JSON[_0x52a299(0x225)](_0x3e5e08);var _0x4832e2=0x0,_0x54cd99=0x0,_0x229161=0x0;for(const _0x56502b of _0x1d640f){var _0x45fdf5=_0x56502b[_0x52a299(0x215)],_0x3e8f33=_0x56502b['username'],_0x2099a4=_0x56502b[_0x52a299(0x200)],_0xb9ac19=_0x56502b[_0x52a299(0x1f1)],_0x2b17de=_0x56502b[_0x52a299(0x232)];_0x56502b[_0x52a299(0x215)]>0xc1b&&(_0x4832e2++,$(_0x52a299(0x1f3))['append'](_0x52a299(0x20a)+_0x4832e2+_0x52a299(0x20c)+_0x3e8f33+_0x52a299(0x226)+_0x2099a4+_0x52a299(0x22a)+_0xb9ac19+_0x52a299(0x22a)+_0x2b17de+_0x52a299(0x22a)+_0x45fdf5[_0x52a299(0x1fa)]()[_0x52a299(0x1f8)](/\B(?=(\d{3})+(?!\d))/g,',')+'$</td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20</tr>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20')),_0x56502b[_0x52a299(0x215)]>0x3e7&&_0x56502b[_0x52a299(0x215)]<0xbb8&&(_0x54cd99++,$('#table2\x20tbody')[_0x52a299(0x237)](_0x52a299(0x20a)+_0x54cd99+_0x52a299(0x22a)+_0x3e8f33+_0x52a299(0x22a)+_0x2099a4+_0x52a299(0x22a)+_0xb9ac19+_0x52a299(0x22a)+_0x2b17de+'</td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<td\x20class=\x22table-primary\x22>'+_0x45fdf5[_0x52a299(0x1fa)]()['replace'](/\B(?=(\d{3})+(?!\d))/g,',')+_0x52a299(0x1f7))),_0x56502b[_0x52a299(0x215)]<0x3e8&&(_0x229161++,$(_0x52a299(0x1f4))[_0x52a299(0x237)](_0x52a299(0x20a)+_0x229161+_0x52a299(0x22a)+_0x3e8f33+'</td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<td\x20class=\x22table-primary\x22>'+_0x2099a4+_0x52a299(0x22a)+_0xb9ac19+_0x52a299(0x22a)+_0x2b17de+_0x52a299(0x22a)+_0x45fdf5[_0x52a299(0x1fa)]()[_0x52a299(0x1f8)](/\B(?=(\d{3})+(?!\d))/g,',')+'$</td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20</tr>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20'));}}});}),$[_0x37904b(0x20f)](_0x37904b(0x204),function(_0x31c919){var _0x2635ed=_0x37904b;$(_0x2635ed(0x1fe))[_0x2635ed(0x1f2)](_0x31c919);}),$[_0x37904b(0x20f)](_0x37904b(0x234),function(_0x4a6ebc){var _0x267808=_0x37904b;$(_0x267808(0x205))[_0x267808(0x1f2)](_0x4a6ebc),sessionStorage[_0x267808(0x203)](_0x267808(0x223),AdminName),$(_0x267808(0x1f5))[_0x267808(0x22c)](sessionStorage[_0x267808(0x1ef)]('AdminName')),document[_0x267808(0x1fc)](_0x267808(0x21e))[_0x267808(0x1fb)]('href',_0x267808(0x222)+sessionStorage[_0x267808(0x1ef)](_0x267808(0x223))),document[_0x267808(0x1fc)](_0x267808(0x214))[_0x267808(0x1fb)](_0x267808(0x217),_0x267808(0x211)+sessionStorage[_0x267808(0x1ef)](_0x267808(0x223))),document[_0x267808(0x1fc)](_0x267808(0x21a))['setAttribute'](_0x267808(0x217),'../CustomerInfo/CustomerInfo.php?name='+sessionStorage[_0x267808(0x1ef)](_0x267808(0x223))),document[_0x267808(0x1fc)](_0x267808(0x1f9))[_0x267808(0x1fb)](_0x267808(0x217),_0x267808(0x22b)+sessionStorage[_0x267808(0x1ef)](_0x267808(0x223))),document[_0x267808(0x1fc)]('href5')[_0x267808(0x1fb)](_0x267808(0x217),_0x267808(0x21f)+sessionStorage[_0x267808(0x1ef)](_0x267808(0x223)));const _0xb950fb=new Date();let _0x1d55ae=_0xb950fb[_0x267808(0x201)](),_0x1ecc2e=_0xb950fb[_0x267808(0x22e)](),_0xd44e6a=_0xb950fb[_0x267808(0x230)]();localStorage[_0x267808(0x203)](_0x267808(0x228),_0xd44e6a+':'+_0x1ecc2e);const _0x1ee94e=[_0x267808(0x21c),'February',_0x267808(0x227),_0x267808(0x224),_0x267808(0x210),_0x267808(0x235),_0x267808(0x208),'August',_0x267808(0x209),_0x267808(0x20e),_0x267808(0x202),_0x267808(0x21b)];let _0x4f5a72=_0x1ee94e[_0xb950fb[_0x267808(0x20b)]()];document[_0x267808(0x1fc)]('date')[_0x267808(0x1f6)]=_0x4f5a72+'/'+_0x1d55ae,sessionStorage[_0x267808(0x1ef)]('AdminName')=='Zay'&&document[_0x267808(0x1fc)](_0x267808(0x218))[_0x267808(0x1fb)]('src',_0x267808(0x229)),sessionStorage[_0x267808(0x1ef)](_0x267808(0x223))==_0x267808(0x231)&&document[_0x267808(0x1fc)](_0x267808(0x218))[_0x267808(0x1fb)](_0x267808(0x1ff),_0x267808(0x207)),sessionStorage[_0x267808(0x1ef)](_0x267808(0x223))=='Zaw'&&document[_0x267808(0x1fc)]('adminPic')[_0x267808(0x1fb)]('src',_0x267808(0x233)),sessionStorage[_0x267808(0x1ef)](_0x267808(0x223))=='Phu'&&document[_0x267808(0x1fc)](_0x267808(0x218))[_0x267808(0x1fb)]('src',_0x267808(0x1fd));}));
+$.get("../../def.html", function (data) {
+  $("body").prepend(data);
+});
+$(document).ready(function () {
+  var count = 0;
+  var rdcolor = "";
+  function makeid() {
+    var characters = "ABCDEF123456789";
+    var charactersLength = characters.length;
+    for (var i = 0; i < 6; i++) {
+      rdcolor += characters.charAt(
+        Math.floor(Math.random() * charactersLength)
+      );
+    }
+    return rdcolor;
+  }
+  $.ajax({
+    type: "get",
+    url: "../../Controllers/FeedbackDatas.php",
+    success: function (data) {
+      let json = JSON.parse(data);
+      console.log(json);
+      for (const x of json) {
+        makeid();
+        let pfname = x.name;
+        pfname = pfname.charAt(0).toUpperCase();
+        count++;
+
+        $("#feedbackForm").append(`
+        <div class="ProflieAndName">
+        <div class="row">
+        <div class="usernfeedback">
+        <div class="UserProfile" style="background-color:#${rdcolor};">${pfname}</div>
+            <p class="name">
+                <button class="btn btn-primary fdbtn" type="button" data-bs-toggle="collapse" data-bs-target="#name${count}" aria-expanded="false" aria-controls="collapseExample">
+                    ${x.name}'s Feedback
+                </button>
+            </p></div>
+            </div>
+            <div class="collapse" id="name${count}">
+                <div class="card card-body fdbody">
+                    ${x.feedback}
+                </div>
+            </div>
+        </div>
+        `);
+        rdcolor = "";
+      }
+    },
+  });
+});
+$.get("../../deflink.html", function (data) {
+  $("head").prepend(data);
+  sessionStorage.setItem("AdminName", AdminName);
+  $("#adminName").text(sessionStorage.getItem("AdminName"));
+  document
+    .getElementById("href1")
+    .setAttribute(
+      "href",
+      "../DashBoard/DashBoard.php?name=" + sessionStorage.getItem("AdminName")
+    );
+  document
+    .getElementById("href2")
+    .setAttribute(
+      "href",
+      "../StockManagement/StockManagement.php?name=" +
+        sessionStorage.getItem("AdminName")
+    );
+  document
+    .getElementById("href3")
+    .setAttribute(
+      "href",
+      "../CustomerInfo/CustomerInfo.php?name=" +
+        sessionStorage.getItem("AdminName")
+    );
+  document
+    .getElementById("href4")
+    .setAttribute(
+      "href",
+      "../Transcation/Transcation.php?name=" +
+        sessionStorage.getItem("AdminName")
+    );
+  document
+    .getElementById("href5")
+    .setAttribute(
+      "href",
+      "../FeedBack/Feedback.php?name=" + sessionStorage.getItem("AdminName")
+    );
+  const d = new Date();
+  let date = d.getDate();
+  let minute = d.getMinutes();
+  let hour = d.getHours();
+
+  localStorage.setItem("LastSigninTime", hour + ":" + minute);
+  const months = [
+    "January",
+    "February",
+    "March",
+    "April",
+    "May",
+    "June",
+    "July",
+    "August",
+    "September",
+    "October",
+    "November",
+    "December",
+  ];
+  let month = months[d.getMonth()];
+  document.getElementById("date").innerHTML = month + "/" + date;
+
+  if (sessionStorage.getItem("AdminName") == "Zay") {
+    document
+      .getElementById("adminPic")
+      .setAttribute("src", "../AdminPhotos/~Chuky~.jpg");
+  }
+  if (sessionStorage.getItem("AdminName") == "Zar") {
+    document
+      .getElementById("adminPic")
+      .setAttribute("src", "../AdminPhotos/Lets go home.png");
+  }
+  if (sessionStorage.getItem("AdminName") == "Zaw") {
+    document
+      .getElementById("adminPic")
+      .setAttribute("src", "../AdminPhotos/A sunset.jpg");
+  }
+  if (sessionStorage.getItem("AdminName") == "Phu") {
+    document
+      .getElementById("adminPic")
+      .setAttribute("src", "../AdminPhotos/flower.jpg");
+  }
+});
